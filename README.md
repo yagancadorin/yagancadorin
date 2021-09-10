@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Yagan</h1>
+<h1 align="center">Hi there, I'm Yagan</h1>
 <h3 align="center">Mobile Dev</h3>
 
 🔭  I’m currently working at **@grupo.fcamara**
