@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Yagan</h1>
-<h3 align="center">Mobile Dev</h3>
+<h3 align="center">Mobile Developer</h3>
 
-🔭  I’m currently working at **@grupo.fcamara**
+🔭  I’m currently working at [Grupo FCamara](https://www.linkedin.com/company/grupofcamara)
 
 👨‍💻  Everything about me are available at [Github.io](https://yagancadorin.github.io)
 
