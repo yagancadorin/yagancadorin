@@ -1,18 +1,18 @@
 Hi there 👋
 
-I'm a Software Developer that has a mission to deliver the best user experience.
+I'm a <strong>Software Developer</strong> that has a mission to deliver the best user experience.
 
-Versatile and self-taught, I've worked mostly as Fullstack developer getting solid experiences in Backend, Frontend and Mobile. Nowadays I've been focusing on Frontend development, specially in mobile applications.
+Versatile and self-taught, I've worked mostly as <strong>Fullstack</strong> developer getting solid experiences in <strong>Backend</strong>, <strong>Frontend</strong> and <strong>Mobile</strong>. Nowadays I've been focusing on <strong>Frontend</strong> development, specially in mobile applications.
 
 These are the main skills I've been working:
 
-• Ionic Framework, Cordova/Capacitor;
-• Javascript and Typescript;
-• React and React Native;
-• Vue.js and Nuxt.js;
-• Angular;
-• HTML, CSS e SASS;
-• PHP e POO;
-• PostgreSQL e MySQL;
-• Git, Github e Azure Devops;
+• Ionic Framework, Cordova/Capacitor;<br>
+• Javascript and Typescript;<br>
+• React and React Native;<br>
+• Vue.js and Nuxt.js;<br>
+• Angular;<br>
+• HTML, CSS e SASS;<br>
+• PHP e POO;<br>
+• PostgreSQL e MySQL;<br>
+• Git, Github e Azure Devops;<br>
 • Scrum.
