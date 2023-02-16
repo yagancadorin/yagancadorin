@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm a <strong>Software Developer</strong> that has a mission to deliver the best user experience.
+I'm a <strong>Software Engineer</strong> that has a mission to deliver the best user experience.
 
 Versatile and self-taught, I've worked mostly as <strong>Fullstack</strong> developer getting solid experiences in <strong>Backend</strong>, <strong>Frontend</strong> and <strong>Mobile</strong>. Nowadays I've been focusing on <strong>Frontend</strong> development, specially in mobile applications.
 
