@@ -1,17 +1,18 @@
-Olá 👋
+Hi there 👋
 
-Sou desenvolvedor Frontend e um entusiasta pelo desenvolvimento Mobile. Versátil e autodidata, possuo experiência e domínio no desenvolvimento, build e deploy de aplicativos móveis.
+I'm a Software Developer that has a mission to deliver the best user experience.
 
-Já tendo atuado como desenvolvedor Full-stack e com experiências sólidas em Back-end, Front-end e Mobile, destacam-se conhecimentos em:
+Versatile and self-taught, I've worked mostly as Fullstack developer getting solid experiences in Backend, Frontend and Mobile. Nowadays I've been focusing on Frontend development, specially in mobile applications.
 
-- Ionic Framework;
-- Cordova e Capacitor;
-- Angular;
-- Vue.js e Nuxt.js;
-- ReactJs e React Native;
-- Javascript e Typescript;
-- HTML, CSS e SASS;
-- PHP e POO;
-- PostgreSQL e MySQL;
-- Git, Github e Azure Devops;
-- Metodologia Scrum.
+These are the main skills I've been working:
+
+• Ionic Framework, Cordova/Capacitor;
+• Javascript and Typescript;
+• React and React Native;
+• Vue.js and Nuxt.js;
+• Angular;
+• HTML, CSS e SASS;
+• PHP e POO;
+• PostgreSQL e MySQL;
+• Git, Github e Azure Devops;
+• Scrum.
